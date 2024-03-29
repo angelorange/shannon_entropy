@@ -23,7 +23,7 @@
 Welcome to the entropy calculator!
 Please insert a comma-separated list of data:
 
-`[A, R, A, R, A]`
+`> [A, R, A, R, A]`
 
 ### Press Enter, and the CLI will display the occurrence counts of each category and the calculated entropy:
 
